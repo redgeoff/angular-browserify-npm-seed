@@ -99,7 +99,7 @@ I then resorted to formatting my modules so that they could be browserified for 
 
 But... this is just really ugly, especially when you add lots of dependencies. And, the other problem was that I then had to manually add dependencies to karma.conf.js and a number of shims--an even uglier mess.
 
-I also tried using angular-browserify, angular-browserifast, karma-commonjs and with all of them I had the show stopping problem that they did not support code coverage. Maybe someone will solve this problem in the future, but for now, I'm tired of messing around with my build enviornment and am ready to just move on with a proven structure.
+I also tried using karma-browserify, karm-browserifast, karma-commonjs and with all of them I had the show stopping problem that they did not support code coverage. Maybe someone will solve this problem in the future, but for now, I'm tired of messing around with my build enviornment and am ready to just move on with a proven structure.
 
 So, I said forget it and decided to go with technologies that I've seen working before: [plugin-seed](https://github.com/pouchdb/plugin-seed).
 
