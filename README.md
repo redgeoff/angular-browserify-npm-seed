@@ -101,7 +101,7 @@ But... this is just really ugly, especially when you add lots of dependencies. A
 
 I also tried using angular-browserify, angular-browserifast, karma-commonjs and with all of them I had the show stopping problem that they did not support code coverage. Maybe someone will solve this problem in the future, but for now, I'm tired of messing around with my build enviornment and am ready to just move on with a proven structure.
 
-So, I said forget it and decided to go with technologies that I have seen working: [plugin-seed](https://github.com/pouchdb/plugin-seed).
+So, I said forget it and decided to go with technologies that I've seen working before: [plugin-seed](https://github.com/pouchdb/plugin-seed).
 
 Can things be improved? Ohhh yes, and I hope you'll help!
 
