@@ -12,9 +12,9 @@ Getting angular, browserify and code coverage to work together is tough! You can
 Getting Started
 ---
 
-  git clone https://github.com/redgeoff/angular-browserify-npm-seed
-  npm install
-  bower install
+    git clone https://github.com/redgeoff/angular-browserify-npm-seed
+    npm install
+    bower install
 
 
 Examples:
@@ -34,35 +34,35 @@ Demos:
 Tests
 ---
 
-  npm run test
+    npm run test
 
 Tests & Coverage
 ---
 
-  npm run coverage
+    npm run coverage
 
 Serve Test Coverage:
 ---
 
-  npm run dev
+    npm run dev
 
 then visit [http://127.0.0.1:8001/coverage/lcov-report](http://127.0.0.1:8001/coverage/lcov-report)
 
 Run tests in a browser:
 ---
 
-  npm run dev
+    npm run dev
 
 then visit [http://127.0.0.1:8001/test](http://127.0.0.1:8001/test)
 
 Run automated tests in a browser:
 ---
 
-  npm run test-firefox
+    npm run test-firefox
 
 or
 
-  npm run test-phantomjs
+    npm run test-phantomjs
 
 Serve Examples:
 ---

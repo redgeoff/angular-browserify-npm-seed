@@ -38,7 +38,8 @@ Setup for gh-pages (only do once)
 Setup Travis CI (only do once)
 ---
 
-	[Setup Travis CI](http://docs.travis-ci.com/user/getting-started/)
+[Setup Travis CI](http://docs.travis-ci.com/user/getting-started/)
+
 	Make small change to any file, e.g. add _Testing_ to the end of [README.md](README.md)
 	git add -A
 	git commit -m "feat(travis): first build for travis"
