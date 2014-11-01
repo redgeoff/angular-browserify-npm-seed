@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-plugin-seed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "browserify angularjs and build with npm",
   "main": "index.js",
   "repository": {
