@@ -15,7 +15,8 @@
     "code-coverage",
     "coverage",
     "npm",
-    "istanbul"
+    "mocha",
+    "istanbul",
   ],
   "license": "MIT",
   "ignore": [

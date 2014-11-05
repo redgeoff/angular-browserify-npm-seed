@@ -3,7 +3,7 @@ angular-browserify-npm-seed
 
 [![Build Status](https://travis-ci.org/redgeoff/angular-browserify-npm-seed.svg)](https://travis-ci.org/redgeoff/angular-browserify-npm-seed)
 
-A seed project that builds with npm and uses browserify, angularjs and istanbul. This project is based on [plugin-seed](https://github.com/pouchdb/plugin-seed), the great work by [Calvin Metcalf](https://github.com/calvinmetcalf) & [Nolan Lawson](https://github.com/nolanlawson).
+A seed project that builds with npm and uses browserify, angularjs, mocha and istanbul. This project is based on [plugin-seed](https://github.com/pouchdb/plugin-seed), the great work by [Calvin Metcalf](https://github.com/calvinmetcalf) & [Nolan Lawson](https://github.com/nolanlawson).
 
 Getting angular, browserify and code coverage to work together is tough! You can use this seed project to get started.
 
