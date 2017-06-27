@@ -1,6 +1,8 @@
 angular-browserify-npm-seed
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/redgeoff/angular-browserify-npm-seed.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/redgeoff/angular-browserify-npm-seed.svg)](https://travis-ci.org/redgeoff/angular-browserify-npm-seed)
 
 A seed project that builds with npm and uses browserify, angularjs, mocha and istanbul. This project is based on [plugin-seed](https://github.com/pouchdb/plugin-seed), the great work by [Calvin Metcalf](https://github.com/calvinmetcalf) & [Nolan Lawson](https://github.com/nolanlawson).
